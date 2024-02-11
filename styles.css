@@ -1,1 +1,7 @@
-
+.title {
+    background-color: red;
+    padding: 1rem;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, .7);
+}
